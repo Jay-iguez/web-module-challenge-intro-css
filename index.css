@@ -129,3 +129,16 @@ nav a {
     text-align: center;
     color: white;
 }
+
+.safety div {
+    width: 40%;
+    margin: 5% auto;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+footer {
+    background-color: ;
+}

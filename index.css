@@ -97,6 +97,35 @@ nav a {
     margin-left: 18%;
 }
 
-.headimage img {
-    border-radius: 2px;
+.image, .text {
+    display: inline-block;
+}
+
+.image {
+    width: 30%;
+}
+
+.text {
+    width: 55%;
+    text-align: center;
+    line-height: 1.2;
+    position: absolute;
+}
+
+.image img {
+    border-radius: 50%;
+}
+.text h1 {
+    font-size: 6rem;
+    font-family: 'Chelsea Market';
+}
+
+.parkinfo {
+    background-color: #DDB9A3;
+    padding: 1rem;
+}
+
+.parkinfo p {
+    text-align: center;
+    color: white;
 }
